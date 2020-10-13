@@ -7,7 +7,9 @@
 
 # The application
 ![home](https://user-images.githubusercontent.com/45128599/95762602-4e12bf80-0c84-11eb-9139-80558d2e9570.png)
-![Splash](https://user-images.githubusercontent.com/45128599/95895750-86d49680-0d61-11eb-8e8d-ff47c80b2cf1.png)
+
+ 
+<img src="https://user-images.githubusercontent.com/45128599/95895750-86d49680-0d61-11eb-8e8d-ff47c80b2cf1.png=250px" alt="Splash" width="200"/>
 
 
 ## Techs 
