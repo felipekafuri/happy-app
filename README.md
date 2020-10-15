@@ -36,4 +36,4 @@
 
 > **Happy API** - https://github.com/felipekafuri/happy-api
 
-> **Happy Mobile** - 
+> **Happy Mobile** - https://github.com/felipekafuri/happy-mobile
